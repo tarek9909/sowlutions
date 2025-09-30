@@ -1,0 +1,464 @@
+[
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Lion",
+   "Fruit": "Apple",
+   "Result": true
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Fox",
+   "Fruit": "Bananas",
+   "Result": false
+ },
+ {
+   "CardSuit": "Spades",
+   "AnimalName": "Parrot",
+   "Fruit": "Mango",
+   "Result": true
+ },
+ {
+   "CardSuit": "Clubs",
+   "AnimalName": "Seal",
+   "Fruit": "Papaya",
+   "Result": true
+ },
+ {
+   "CardSuit": "Joker",
+   "AnimalName": "Snake",
+   "Fruit": "Watermelon",
+   "Result": false
+ },
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Fox",
+   "Fruit": "Mango",
+   "Result": false
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Seal",
+   "Fruit": "Papaya",
+   "Result": false
+ },
+ {
+   "CardSuit": "Spades",
+   "AnimalName": "Lion",
+   "Fruit": "Watermelon",
+   "Result": true
+ },
+ {
+   "CardSuit": "Clubs",
+   "AnimalName": "Parrot",
+   "Fruit": "Apple",
+   "Result": false
+ },
+ {
+   "CardSuit": "Joker",
+   "AnimalName": "Snake",
+   "Fruit": "Bananas",
+   "Result": true
+ },
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Seal",
+   "Fruit": "Watermelon",
+   "Result": true
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Lion",
+   "Fruit": "Papaya",
+   "Result": false
+ },
+ {
+   "CardSuit": "Spades",
+   "AnimalName": "Parrot",
+   "Fruit": "Bananas",
+   "Result": false
+ },
+ {
+   "CardSuit": "Clubs",
+   "AnimalName": "Fox",
+   "Fruit": "Mango",
+   "Result": true
+ },
+ {
+   "CardSuit": "Joker",
+   "AnimalName": "Snake",
+   "Fruit": "Apple",
+   "Result": false
+ },
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Parrot",
+   "Fruit": "Papaya",
+   "Result": true
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Lion",
+   "Fruit": "Watermelon",
+   "Result": false
+ },
+ {
+   "CardSuit": "Spades",
+   "AnimalName": "Seal",
+   "Fruit": "Mango",
+   "Result": true
+ },
+ {
+   "CardSuit": "Clubs",
+   "AnimalName": "Fox",
+   "Fruit": "Apple",
+   "Result": false
+ },
+ {
+   "CardSuit": "Joker",
+   "AnimalName": "Snake",
+   "Fruit": "Bananas",
+   "Result": false
+ },
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Lion",
+   "Fruit": "Bananas",
+   "Result": true
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Fox",
+   "Fruit": "Watermelon",
+   "Result": false
+ },
+ {
+   "CardSuit": "Spades",
+   "AnimalName": "Seal",
+   "Fruit": "Apple",
+   "Result": true
+ },
+ {
+   "CardSuit": "Clubs",
+   "AnimalName": "Parrot",
+   "Fruit": "Mango",
+   "Result": false
+ },
+ {
+   "CardSuit": "Joker",
+   "AnimalName": "Snake",
+   "Fruit": "Papaya",
+   "Result": false
+ },
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Parrot",
+   "Fruit": "Watermelon",
+   "Result": true
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Seal",
+   "Fruit": "Bananas",
+   "Result": false
+ },
+ {
+   "CardSuit": "Spades",
+   "AnimalName": "Lion",
+   "Fruit": "Papaya",
+   "Result": true
+ },
+ {
+   "CardSuit": "Clubs",
+   "AnimalName": "Fox",
+   "Fruit": "Apple",
+   "Result": false
+ },
+ {
+   "CardSuit": "Joker",
+   "AnimalName": "Snake",
+   "Fruit": "Mango",
+   "Result": false
+ },
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Seal",
+   "Fruit": "Bananas",
+   "Result": true
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Parrot",
+   "Fruit": "Apple",
+   "Result": false
+ },
+ {
+   "CardSuit": "Spades",
+   "AnimalName": "Lion",
+   "Fruit": "Watermelon",
+   "Result": true
+ },
+ {
+   "CardSuit": "Clubs",
+   "AnimalName": "Fox",
+   "Fruit": "Papaya",
+   "Result": false
+ },
+ {
+   "CardSuit": "Joker",
+   "AnimalName": "Snake",
+   "Fruit": "Mango",
+   "Result": false
+ },
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Parrot",
+   "Fruit": "Bananas",
+   "Result": true
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Lion",
+   "Fruit": "Apple",
+   "Result": false
+ },
+ {
+   "CardSuit": "Spades",
+   "AnimalName": "Seal",
+   "Fruit": "Watermelon",
+   "Result": true
+ },
+ {
+   "CardSuit": "Clubs",
+   "AnimalName": "Fox",
+   "Fruit": "Papaya",
+   "Result": false
+ },
+ {
+   "CardSuit": "Joker",
+   "AnimalName": "Snake",
+   "Fruit": "Mango",
+   "Result": false
+ },
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Lion",
+   "Fruit": "Watermelon",
+   "Result": true
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Fox",
+   "Fruit": "Bananas",
+   "Result": false
+ },
+ {
+   "CardSuit": "Spades",
+   "AnimalName": "Seal",
+   "Fruit": "Papaya",
+   "Result": true
+ },
+ {
+   "CardSuit": "Clubs",
+   "AnimalName": "Parrot",
+   "Fruit": "Mango",
+   "Result": false
+ },
+ {
+   "CardSuit": "Joker",
+   "AnimalName": "Snake",
+   "Fruit": "Apple",
+   "Result": false
+ },
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Fox",
+   "Fruit": "Watermelon",
+   "Result": true
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Seal",
+   "Fruit": "Bananas",
+   "Result": false
+ },
+ {
+   "CardSuit": "Spades",
+   "AnimalName": "Lion",
+   "Fruit": "Papaya",
+   "Result": true
+ },
+ {
+   "CardSuit": "Clubs",
+   "AnimalName": "Parrot",
+   "Fruit": "Apple",
+   "Result": false
+ },
+ {
+   "CardSuit": "Joker",
+   "AnimalName": "Snake",
+   "Fruit": "Mango",
+   "Result": false
+ },
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Seal",
+   "Fruit": "Watermelon",
+   "Result": true
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Lion",
+   "Fruit": "Papaya",
+   "Result": false
+ },
+ {
+   "CardSuit": "Spades",
+   "AnimalName": "Parrot",
+   "Fruit": "Bananas",
+   "Result": false
+ },
+ {
+   "CardSuit": "Clubs",
+   "AnimalName": "Fox",
+   "Fruit": "Mango",
+   "Result": true
+ },
+ {
+   "CardSuit": "Joker",
+   "AnimalName": "Snake",
+   "Fruit": "Apple",
+   "Result": false
+ },
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Parrot",
+   "Fruit": "Papaya",
+   "Result": true
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Seal",
+   "Fruit": "Watermelon",
+   "Result": false
+ },
+ {
+   "CardSuit": "Spades",
+   "AnimalName": "Lion",
+   "Fruit": "Bananas",
+   "Result": true
+ },
+ {
+   "CardSuit": "Clubs",
+   "AnimalName": "Fox",
+   "Fruit": "Apple",
+   "Result": false
+ },
+ {
+   "CardSuit": "Joker",
+   "AnimalName": "Snake",
+   "Fruit": "Mango",
+   "Result": false
+ },
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Seal",
+   "Fruit": "Bananas",
+   "Result": true
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Parrot",
+   "Fruit": "Apple",
+   "Result": false
+ },
+ {
+   "CardSuit": "Spades",
+   "AnimalName": "Lion",
+   "Fruit": "Watermelon",
+   "Result": true
+ },
+ {
+   "CardSuit": "Clubs",
+   "AnimalName": "Fox",
+   "Fruit": "Papaya",
+   "Result": false
+ },
+ {
+   "CardSuit": "Joker",
+   "AnimalName": "Snake",
+   "Fruit": "Mango",
+   "Result": false
+ },
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Parrot",
+   "Fruit": "Bananas",
+   "Result": true
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Lion",
+   "Fruit": "Apple",
+   "Result": false
+ },
+ {
+   "CardSuit": "Spades",
+   "AnimalName": "Seal",
+   "Fruit": "Watermelon",
+   "Result": true
+ },
+ {
+   "CardSuit": "Clubs",
+   "AnimalName": "Fox",
+   "Fruit": "Papaya",
+   "Result": false
+ },
+ {
+   "CardSuit": "Joker",
+   "AnimalName": "Snake",
+   "Fruit": "Mango",
+   "Result": false
+ },
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Lion",
+   "Fruit": "Watermelon",
+   "Result": true
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Fox",
+   "Fruit": "Bananas",
+   "Result": false
+ },
+ {
+   "CardSuit": "Spades",
+   "AnimalName": "Seal",
+   "Fruit": "Papaya",
+   "Result": true
+ },
+ {
+   "CardSuit": "Clubs",
+   "AnimalName": "Parrot",
+   "Fruit": "Mango",
+   "Result": false
+ },
+ {
+   "CardSuit": "Joker",
+   "AnimalName": "Snake",
+   "Fruit": "Apple",
+   "Result": false
+ },
+ {
+   "CardSuit": "Hearts",
+   "AnimalName": "Fox",
+   "Fruit": "Watermelon",
+   "Result": true
+ },
+ {
+   "CardSuit": "Diamonds",
+   "AnimalName": "Seal",
+   "Fruit": "Bananas",
+   "Result": false
+ }
+]
